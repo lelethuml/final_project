@@ -19,7 +19,7 @@ import { LoginComponent } from './components/login/login.component';
     AppComponent,
     RegisterComponent,
     LoginComponent,
-    HomeComponent,
+    // HomeComponent,
     ProfileComponent,
     BoardAdminComponent,
     BoardModeratorComponent,
